@@ -7,8 +7,8 @@ export const siteConfig = {
   email: "jennyscake@gmail.com",
   emailSubject: "Cake Inquiry",
   emailBody: "Hi Jenny,\n\nI'd like to ask about ordering a cake for...",
-  tiktokHandle: "@jenniclems",
-  tiktokUrl: "https://www.tiktok.com/@jenniclems",
+  tiktokHandle: "@jenniclems11",
+  tiktokUrl: "https://www.tiktok.com/@jenniclems11",
 };
 
 export const links = {
